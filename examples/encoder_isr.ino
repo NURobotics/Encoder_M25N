@@ -1,4 +1,4 @@
-#include <Encoder_M25N/Encoder_M25N.h>
+#include <Encoder_M25N.h>
 
 Encoder_M25N left_encoder;
 
